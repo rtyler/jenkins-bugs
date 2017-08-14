@@ -1,4 +1,4 @@
-peline {
+pipeline {
   agent {
     dockerfile { dir 'whale time' }
   }
