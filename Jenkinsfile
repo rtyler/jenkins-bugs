@@ -10,5 +10,4 @@ pipeline {
       }
     }
   }
-ghttps://www.bespacific.com/feed/
-https://www.bespacific.com/feed/ "Legal"
+}
